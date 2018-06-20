@@ -459,12 +459,12 @@ button {
 .column, .columns {
   width: 100%;
   float: left;
-  padding-left: 0.625rem;
-  padding-right: 0.625rem; }
+  padding-left: 0;
+  padding-right: 0; }
   @media screen and (min-width: 40em) {
     .column, .columns {
-      padding-left: 0.9375rem;
-      padding-right: 0.9375rem; } }
+      padding-left: 0;
+      padding-right: 0; } }
   .column:last-child:not(:first-child), .columns:last-child:not(:first-child) {
     float: right; }
   .column.end:last-child:last-child, .end.columns:last-child:last-child {
@@ -1509,12 +1509,18 @@ kbd {
     .button.secondary:hover, .button.secondary:focus {
       background-color: #5f5f5f;
       color: #fefefe; }
+  .button.aqua {
+    background-color: #7ee5de;
+    color: #000000; }
+    .button.aqua:hover, .button.aqua:focus {
+      background-color: #b3e5e2;
+      color: #000000; }
   .button.success {
     background-color: #3adb76;
-    color: #fefefe; }
+    color: #000000; }
     .button.success:hover, .button.success:focus {
       background-color: #22bb5b;
-      color: #fefefe; }
+      color: #000000; }
   .button.warning {
     background-color: #ffae00;
     color: #fefefe; }
