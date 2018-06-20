@@ -1,3 +1,42 @@
-baseURL = "http://seamannetwork.com/"
-languageCode = "en-us"
+baseurl = "/"
+author = "Howard Colin"
 title = "Seaman Network, LLC"
+languageCode = "en-us"
+theme = "foundation-theme"
+enableRobotsTXT = true
+SectionPagesMenu = ["main", "social"]
+
+[params.meta]
+description = "Seaman Network, LLC"
+keywords = "networking, network, hardware, switch, router, seller"
+
+[params.hero]
+herotitle = "Come Together."
+herodiscription = "Always hard at work and open for jizzness."
+btnblue = "Get It On Yo Face"
+btngreen = "Sext Us"
+
+[params.main]
+contentOneTitle = "Reliable Hardware Sourcing"
+
+contentOneBody = "Finding the right hardware can be tricky and exhausting. We offer reliable, tested, and budget-friendly networking gear from leading manufacturers such as Cisco, Juniper, Nortel, Extreme Networks, 3COM, Force 10, Compaq, Hewlett Packard, Dell, Avaya, HP, Brocade/Foundry, and Aruba. "
+
+[params.footer]
+phone = "+1 512-843-3503"
+email = "gideon@seamannetwork.com"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+
+[[menu.social]]
+name = "Facebook"
+url = "http://facebook.com/seamannetwork"
+
+[[menu.social]]
+name = "Twitter"
+url = "http://twitter.com/seamannetwork"
