@@ -5,6 +5,17 @@ languageCode = "en-us"
 theme = "foundation-theme"
 enableRobotsTXT = true
 SectionPagesMenu = ["main", "social"]
+name = "Hugof"
+license = "MIT"
+description = "Seaman Network, LLC"
+homepage = "https://seamannetwork.com"
+tags = ["network", "hardware"]
+features = ["foundation", "hugo", "mobile"]
+min_version = 0.17
+
+[author]
+  name = "Howard Colin"
+  homepage = "https://straightfwd.co.uk"
 
 [params.meta]
 description = "Seaman Network, LLC"
