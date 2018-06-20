@@ -25,7 +25,6 @@ btngreen = "Sext Us"
 
 [params.main]
 contentOneTitle = "Reliable Hardware Sourcing"
-
 contentOneBody = "Finding the right hardware can be tricky and exhausting. We offer reliable, tested, and budget-friendly networking gear from leading manufacturers such as Cisco, Juniper, Nortel, Extreme Networks, 3COM, Force 10, Compaq, Hewlett Packard, Dell, Avaya, HP, Brocade/Foundry, and Aruba. "
 
 [params.footer]
