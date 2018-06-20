@@ -13,10 +13,6 @@ tags = ["network", "hardware"]
 features = ["foundation", "hugo", "mobile"]
 min_version = 0.17
 
-[author]
-  name = "Howard Colin"
-  homepage = "https://straightfwd.co.uk"
-
 [params.meta]
 description = "Seaman Network, LLC"
 keywords = "networking, network, hardware, switch, router, seller"
