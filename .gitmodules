@@ -1,3 +1,2 @@
-[submodule "seamannetwork.com/themes"]
-	path = seamannetwork.com/themes
-	url = https://github.com/hdcdstr8fwd/foundation-theme
+[submodule "/themes"]
+    url = https://github.com/hdcdstr8fwd/foundation-theme
