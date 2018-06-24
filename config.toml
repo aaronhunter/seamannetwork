@@ -19,13 +19,13 @@ keywords = "networking, network, hardware, switch, router, seller"
 
 [params.hero]
 herotitle = "Come Together."
-herodiscription = "Networking equipment enriches our lives day by day, hour by hour, and in most cases, makes the lives we lead possible in the first place. But finding the equipment your business needs can be a real hassle, and further, you might know what equipment you need, but feel like you could've gotten a better deal in the past. Seaman Network has the experience and reliability to "
+herodiscription = "We offer reliable, tested, and budget-friendly computer hardware from every major brand on the market. We are prepared to handle your needs large or small. So, whether your office needs a complete makeover, or a single switch needs a fan, Seaman Network can help. We also offer buy-back programs for your old gear. All of our products come with a one year warranty (2 years for new equipment) so you can rest easy knowing that we have you covered."
 btnblue = "About Seaman Networking"
 btngreen = "Contact Us"
 
 [params.main]
-contentOneTitle = "Reliable Hardware Sourcing"
-contentOneBody = "Finding the right hardware can be tricky and exhausting. We offer reliable, tested, and budget-friendly networking gear from leading manufacturers such as Cisco, Juniper, Nortel, Extreme Networks, 3COM, Force 10, Compaq, Hewlett Packard, Dell, Avaya, HP, Brocade/Foundry, and Aruba. "
+contentOneTitle = "Pardon Our Dust"
+contentOneBody = "We're currently revamping our website to better serve you. Please [Contact Us](/contact) here for any and all matters."
 
 [params.footer]
 phone = "+1 512-843-3503"
