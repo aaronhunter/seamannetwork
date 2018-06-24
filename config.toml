@@ -19,9 +19,9 @@ keywords = "networking, network, hardware, switch, router, seller"
 
 [params.hero]
 herotitle = "Come Together."
-herodiscription = "Always hard at work and open for jizzness."
-btnblue = "Get It On Yo Face"
-btngreen = "Sext Us"
+herodiscription = "Networking equipment enriches our lives day by day, hour by hour, and in most cases, makes the lives we lead possible in the first place. But finding the equipment your business needs can be a real hassle, and further, you might know what equipment you need, but feel like you could've gotten a better deal in the past. Seaman Network has the experience and reliability to "
+btnblue = "About Seaman Networking"
+btngreen = "Contact Us"
 
 [params.main]
 contentOneTitle = "Reliable Hardware Sourcing"
