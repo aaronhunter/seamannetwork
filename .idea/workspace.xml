@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1bd64b6-6d48-4526-a38a-c8082aa911b0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +27,8 @@
           <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="57">
-                  <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+                <state relative-caret-position="95">
+                  <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
                 </state>
               </provider>
             </entry>
@@ -354,12 +345,12 @@
       <workItem from="1529480541745" duration="6167000" />
       <workItem from="1529491006591" duration="5377000" />
       <workItem from="1529626117421" duration="439000" />
-      <workItem from="1529865663355" duration="6712000" />
+      <workItem from="1529865663355" duration="7483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18695000" />
+    <option name="totallyTimeSpent" value="19466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -733,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="95">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
