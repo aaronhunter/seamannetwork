@@ -157,21 +157,19 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>medium-</find>
-      <find />
       <find>width</find>
       <find>off-canvas-c</find>
       <find>row</find>
       <find>.row</find>
-      <find />
+      <find>max-width: 75</find>
       <find>index.html</find>
       <find>content-one</find>
       <find>.nav-item</find>
       <find>.top-bar-left</find>
       <find>menu</find>
       <find>hero-panel</find>
-      <find />
-      <find />
+      <find>height: 200</find>
+      <find>box-sizing: in</find>
       <find>wrapper</find>
       <find>getmax</find>
       <find>wrap</find>
@@ -181,12 +179,14 @@
       <find>Helv</find>
       <find>font-size</find>
       <find>top-bar-left</find>
-      <find />
+      <find>p {</find>
       <find>.contact</find>
       <find>svg-wrap</find>
       <find>title-`bar</find>
       <find>.top-bar</find>
       <find>title-bar</find>
+      <find>main</find>
+      <find>temp</find>
     </findStrings>
     <replaceStrings>
       <replace>ffffff</replace>
