@@ -25,7 +25,7 @@ btngreen = "Contact Us"
 
 [params.main]
 contentOneTitle = "Pardon Our Dust"
-contentOneBody = "We're currently revamping our website to better serve you. Please [Contact Us](mailto:gideon@seamannetwork.com?subject=Contact from Seaman Network site) to request a quote or learn more about how we can help."
+contentOneBody = "We're currently revamping our website to better serve you. Please [Contact Us](mailto:gideon@seamannetwork.com) to request a quote or learn more about how we can help."
 
 [params.footer]
 phone = "+1 512-843-3503"
