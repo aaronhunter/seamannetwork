@@ -368,10 +368,10 @@ html {
   font-size: 100%;
   box-sizing: border-box; }
 
-*,
+/**,
 *::before,
 *::after {
-  box-sizing: inherit; }
+  box-sizing: inherit; }*/
 
 body {
   padding: 0;
@@ -3474,6 +3474,7 @@ table.hover tbody tr:nth-of-type(even):hover {
 
 .top-bar-left {
   float: left;
+  margin-top: 80px !important;
 }
 
 .top-bar-right {

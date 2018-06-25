@@ -2,16 +2,16 @@
 
 <nav class="top-bar nav-desktop main-section large-12">
 	<div class="large-12 row">
-		<div id="svg-wrap" class="top-bar-left">
-			<a href="{{ .Site.BaseURL }}"><img src="logo.svg" alt=""></a>
+		<div class="top-bar-left">
+      <a href="{{ .Site.BaseURL }}"><img src="/logo.svg" alt=""></a>
 		</div>
   		<div class="top-bar-right">
-        	<ul class="menu horizontal menu-desktop">
-			{{ $currentNode := . }}	
-			{{ range .Site.Menus.main }}
-          	<li><a class="nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name}}</a></li>
-			{{end}}
-        	</ul>
-  	  	</div>
+        <ul class="menu horizontal menu-desktop">
+    {{ $currentNode := . }}
+    {{ range .Site.Menus.main }}
+          <li><a class="nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name}}</a></li>
+    {{end}}
+        </ul>
+      </div>
 	</div>
 </nav> {{ "<!-- END NAV BAR DESKTOP -->" | safeHTML }}

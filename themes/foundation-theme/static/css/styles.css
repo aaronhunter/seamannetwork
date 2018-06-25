@@ -10,13 +10,6 @@ Global Styles
 	margin: 0 0 !important;
 }*/
 
-#svg-wrap {
-  width: 30%; }
-
-#svg-wrap > img {
-   max-width: 400px;
- }
-
 .wrapper {
   width: 100%;
   margin: auto;
@@ -26,6 +19,7 @@ main-section {
   width: 100%;
   text-align: left;
   margin: 0 0;
+  height: auto;
 }
 
 .off-canvas-wrapper {
@@ -72,6 +66,7 @@ Nav desktop
 .nav-desktop {
 	background-color: #222;
 	padding: 0;
+  margin-top: 80px !important;
 }
 
 .site-logo {
@@ -81,6 +76,7 @@ Nav desktop
 .nav-desktop .menu-desktop {
 	background-color: transparent;
 	line-height: 50px;
+  margin-top: 80px !important;
 }
 
 .menu > li > a {
@@ -95,6 +91,10 @@ Nav desktop
 	background-color: rgba(255,255,255, 0.1);
 }
 
+.svg-wrap {
+  margin-top: 80px !important;
+}
+
 /*************
 Hero
 ************** */
@@ -102,7 +102,7 @@ Hero
 	background-color: #ce8295;
 	padding: 50px 0px;
 			/*top right bottom left*/
-	height: 300px;
+	height: 300px !important;
 }
 
 

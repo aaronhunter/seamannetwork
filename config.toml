@@ -1,6 +1,6 @@
 baseurl = "/"
 author = "Howard Colin"
-title = "Seaman aa Network, LLC"
+title = "Seaman Network, LLC"
 languageCode = "en-us"
 theme = "foundation-theme"
 enableRobotsTXT = true
@@ -25,11 +25,15 @@ btngreen = "Contact Us"
 
 [params.main]
 contentOneTitle = "Pardon Our Dust"
-contentOneBody = "We're currently revamping our website to better serve you. Please [Contact Us](/contact) here for any and all matters."
+contentOneBody = "We're currently revamping our website to better serve you. Please [Contact Us](/contact) for any and all matters."
 
 [params.footer]
 phone = "+1 512-843-3503"
 email = "gideon@seamannetwork.com"
+
+[[menu.main]]
+name = 'Home'
+url = "/"
 
 [[menu.main]]
 name = "About"
