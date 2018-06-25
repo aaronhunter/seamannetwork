@@ -12,6 +12,7 @@ Global Styles
 
 .wrapper {
   width: 90%;
+  max-width: 1300px;
   margin: auto;
 }
 
