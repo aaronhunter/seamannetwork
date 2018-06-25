@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1bd64b6-6d48-4526-a38a-c8082aa911b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" afterDir="false" />
     </list>
@@ -25,20 +26,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="nav.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+                <state relative-caret-position="323">
+                  <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="hero.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="hero.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="57">
-                  <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+                <state relative-caret-position="133">
+                  <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
                 </state>
               </provider>
             </entry>
@@ -116,20 +117,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="526">
-                  <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+                <state relative-caret-position="165">
+                  <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="foundation.css" pinned="false" current-in-tab="false">
+          <file leaf-file-name="foundation.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-13868">
-                  <caret line="3476" column="30" selection-start-line="3476" selection-start-column="30" selection-end-line="3476" selection-end-column="30" />
+                <state relative-caret-position="401">
+                  <caret line="4197" column="14" lean-forward="true" selection-start-line="4197" selection-start-column="14" selection-end-line="4197" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -149,9 +150,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>btnblue</find>
-      <find>primary</find>
-      <find>logo</find>
       <find>263779</find>
       <find>#263779</find>
       <find>max-wid</find>
@@ -176,9 +174,12 @@
       <find>wrapper</find>
       <find>getmax</find>
       <find>wrap</find>
-      <find>svg-wrap</find>
       <find>margin-top</find>
       <find>font</find>
+      <find>svg-wrap</find>
+      <find>font-family</find>
+      <find>Helv</find>
+      <find>font-size</find>
     </findStrings>
     <replaceStrings>
       <replace>ffffff</replace>
@@ -202,13 +203,13 @@
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/contact.html" />
         <option value="$PROJECT_DIR$/content/contact.md" />
         <option value="$PROJECT_DIR$/config.toml" />
-        <option value="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html" />
-        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/main.html" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html" />
+        <option value="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" />
       </list>
     </option>
   </component>
@@ -353,12 +354,12 @@
       <workItem from="1529491006591" duration="5377000" />
       <workItem from="1529626117421" duration="439000" />
       <workItem from="1529865663355" duration="8721000" />
-      <workItem from="1529895041256" duration="6922000" />
+      <workItem from="1529895041256" duration="7365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27626000" />
+    <option name="totallyTimeSpent" value="28069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -678,13 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13868">
-          <caret line="3476" column="30" selection-start-line="3476" selection-start-column="30" selection-end-line="3476" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -716,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -746,15 +733,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="103" column="31" selection-start-line="103" selection-start-column="31" selection-end-line="103" selection-end-column="31" />
+        <state relative-caret-position="165">
+          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="323">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/hero.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="4197" column="14" lean-forward="true" selection-start-line="4197" selection-start-column="14" selection-end-line="4197" selection-end-column="14" />
         </state>
       </provider>
     </entry>
