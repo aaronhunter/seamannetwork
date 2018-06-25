@@ -38,17 +38,15 @@
             {{ "<!-- Partials that make up the site -->" | safeHTML }}
             {{ partial "nav.html" . }}
 
-            {{ partial "hero.html" . }}
-
             <form class="contact-form wrapper row" name="contact" method="POST" netlify>
                 <p>
                     <label>Your Name: <input type="text" name="name" /></label>
                 </p>
                 <p>
-                    <label>Your Email: <input type="email" name="email" /></label>
+                    <label>Your Phone: <input type="text" name="phone" /></label>
                 </p>
                 <p>
-                    <label>Your Phone: <input type="text" name="phone" /></label>
+                    <label>Your Email: <input type="email" name="email" /></label>
                 </p>
                 <p>
                     <label>Message: <textarea name="message"></textarea></label>
