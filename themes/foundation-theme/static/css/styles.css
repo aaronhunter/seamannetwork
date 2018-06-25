@@ -176,7 +176,7 @@ Media Query
 		display: none;
 	}
 
-  h1.hero {
+  h1.hero, h1.temp {
     margin-top: 150px;
   }
 }
