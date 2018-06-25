@@ -2,7 +2,9 @@
 Global Styles
 ************** */
 
-
+.temp-contact {
+	margin-top: 80px;
+}
 
 /*.wrapper {
 	width: 100%;
@@ -176,7 +178,7 @@ Media Query
 		display: none;
 	}
 
-  h1.hero, h1.temp {
+  h1.hero, h1.temp, .temp-contact {
     margin-top: 150px;
   }
 }

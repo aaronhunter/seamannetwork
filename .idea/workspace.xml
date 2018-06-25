@@ -127,8 +127,8 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="114" column="24" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+                <state relative-caret-position="95">
+                  <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -158,20 +158,20 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>medium-</find>
-      <find>margin: 0 auto</find>
+      <find />
       <find>width</find>
       <find>off-canvas-c</find>
       <find>row</find>
       <find>.row</find>
-      <find>max-width: 75</find>
+      <find />
       <find>index.html</find>
       <find>content-one</find>
       <find>.nav-item</find>
       <find>.top-bar-left</find>
       <find>menu</find>
       <find>hero-panel</find>
-      <find>height: 200</find>
-      <find>box-sizing: in</find>
+      <find />
+      <find />
       <find>wrapper</find>
       <find>getmax</find>
       <find>wrap</find>
@@ -181,7 +181,7 @@
       <find>Helv</find>
       <find>font-size</find>
       <find>top-bar-left</find>
-      <find>p {</find>
+      <find />
       <find>.contact</find>
       <find>svg-wrap</find>
       <find>title-`bar</find>
@@ -309,12 +309,12 @@
       <workItem from="1529626117421" duration="439000" />
       <workItem from="1529865663355" duration="8721000" />
       <workItem from="1529895041256" duration="11795000" />
-      <workItem from="1529965277595" duration="2298000" />
+      <workItem from="1529965277595" duration="2554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34797000" />
+    <option name="totallyTimeSpent" value="35053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -576,9 +576,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/netlify.toml" />
-    <entry file="file://$PROJECT_DIR$/.gitkeep">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/theme.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -593,13 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitmodules">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -693,13 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -707,10 +690,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="114" column="24" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
