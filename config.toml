@@ -18,14 +18,14 @@ description = "Seaman Network, LLC"
 keywords = "networking, network, hardware, switch, router, seller"
 
 [params.hero]
-herotitle = "Come Together."
+herotitle = "Come together"
 herodiscription = "We offer reliable, tested, and budget-friendly computer hardware from every major brand on the market and we are prepared to handle your needs, large or small. So, whether your office needs a complete makeover or a single switch needs a fan, Seaman Network can help. All of our products come with a 1 year warranty (2 years for new equipment) and we also offer a buy-back program for the gear you're replacing. With our one-on-one consultative approach, we want to work with you to determine the best possible solutions to fit your needs."
 btnblue = "About Seaman Network"
 btngreen = "Contact Us"
 
 [params.main]
-contentOneTitle = "Pardon Our Dust"
-contentOneBody = "We're currently revamping our website to better serve you. Please [Contact Us](/contact) for any and all matters."
+contentOneTitle = "All the products"
+contentOneBody = "We handle hardware from every major brand including, but not limited to: Cisco, Dell, HP/Compaq, Juniper Networks, Nortel Networks, Extreme Networks, 3COM, Force 10, Avaya, Brocade/Foundry, and Aruba."
 
 [params.footer]
 phone = "+1 512-843-3503"

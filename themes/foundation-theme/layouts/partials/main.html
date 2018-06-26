@@ -1,8 +1,11 @@
 {{ "<!-- BEGIN MAIN CONTENT -->" | safeHTML }}
+
 <section class="main-content main-section">
 	<div class="wrapper row">
-		<div class="large-12 content-one">
+		<div class="main-banner">
 			<h1>{{ .Site.Params.main.contentOneTitle }}</h1>
+		</div>
+    <div class="main-description">
 			<p>{{ .Site.Params.main.contentOneBody | markdownify }}</p>
 		</div>
 	</div>
