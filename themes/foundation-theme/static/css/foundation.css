@@ -1505,7 +1505,7 @@ kbd {
       color: #fefefe; }
   .button.secondary {
     background-color: #777;
-    color: #fefefe; }
+    color: #000000; }
     .button.secondary:hover, .button.secondary:focus {
       background-color: #5f5f5f;
       color: #fefefe; }
@@ -1514,6 +1514,12 @@ kbd {
     color: #000000; }
     .button.aqua:hover, .button.aqua:focus {
       background-color: #b3e5e2;
+      color: #000000; }
+  .button.aqua {
+    background-color: #000000;
+    color: #000000; }
+    .button.aqua:hover, .button.aqua:focus {
+      background-color: #5f5f5f;
       color: #000000; }
   .button.success {
     background-color: #3adb76;
