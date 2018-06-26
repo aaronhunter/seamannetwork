@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1bd64b6-6d48-4526-a38a-c8082aa911b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" afterDir="false" />
     </list>
@@ -20,11 +24,20 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+          <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config.toml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="815">
-                  <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+                <state relative-caret-position="183">
+                  <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="171">
+                  <caret line="6" column="253" lean-forward="true" selection-start-line="6" selection-start-column="253" selection-end-line="6" selection-end-column="253" />
                 </state>
               </provider>
             </entry>
@@ -59,8 +72,8 @@
           <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/footer.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="399">
-                  <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+                <state relative-caret-position="285">
+                  <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
                 </state>
               </provider>
             </entry>
@@ -68,8 +81,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-19">
-                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="98" />
+                <state relative-caret-position="589">
+                  <caret line="34" column="105" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="105" />
                 </state>
               </provider>
             </entry>
@@ -112,46 +125,28 @@
             <entry file="file://$PROJECT_DIR$/content/about.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="456">
-                    <caret line="9" column="338" selection-start-line="9" selection-start-column="338" selection-end-line="9" selection-end-column="338" />
+                  <first_editor relative-caret-position="133">
+                    <caret line="5" column="153" selection-start-line="5" selection-start-column="153" selection-end-line="5" selection-end-column="153" />
                   </first_editor>
                   <second_editor />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+                <state relative-caret-position="456">
+                  <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="694">
-                  <caret line="274" column="24" selection-start-line="274" selection-start-column="24" selection-end-line="274" selection-end-column="24" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="95">
-                  <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="foundation.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="355">
-                  <caret line="1485" column="24" selection-start-line="1485" selection-start-column="17" selection-end-line="1485" selection-end-column="24" />
+                <state relative-caret-position="649">
+                  <caret line="283" column="20" selection-start-line="283" selection-start-column="20" selection-end-line="283" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -159,8 +154,8 @@
           <file leaf-file-name="single-para.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="361">
-                  <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+                <state relative-caret-position="551">
+                  <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
@@ -171,7 +166,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.top-bar</find>
       <find>title-bar</find>
       <find>.left</find>
       <find>times new</find>
@@ -198,9 +192,10 @@
       <find>textarea</find>
       <find>width: 50</find>
       <find>contact-form</find>
+      <find>h3</find>
       <find>main-section</find>
       <find>main</find>
-      <find>h3</find>
+      <find>contact-text</find>
     </findStrings>
     <replaceStrings>
       <replace>ffffff</replace>
@@ -230,12 +225,12 @@
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/main.html" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/index.html" />
         <option value="$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css" />
-        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html" />
-        <option value="$PROJECT_DIR$/content/about.md" />
-        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html" />
-        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html" />
-        <option value="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/about.md" />
+        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html" />
+        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html" />
+        <option value="$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html" />
       </list>
     </option>
   </component>
@@ -308,6 +303,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="form&#9;FILE&#9;file://E:/git/seamannetwork/website/seamannetwork.com/themes/foundation-theme/layouts/partials/form.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -357,7 +353,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44624000" />
+    <option name="totallyTimeSpent" value="45551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -377,14 +373,6 @@
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -394,12 +382,33 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3296875" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -658,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="285">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -693,39 +702,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="1485" column="24" selection-start-line="1485" selection-start-column="17" selection-end-line="1485" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/about.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="456">
-            <caret line="9" column="338" selection-start-line="9" selection-start-column="338" selection-end-line="9" selection-end-column="338" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="41" column="39" lean-forward="true" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        <state relative-caret-position="526">
+          <caret line="1485" column="24" selection-start-line="1485" selection-start-column="24" selection-end-line="1485" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -736,24 +714,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html">
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="589">
+          <caret line="34" column="105" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="133">
+            <caret line="5" column="153" selection-start-line="5" selection-start-column="153" selection-end-line="5" selection-end-column="153" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/_default/single-para.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/foundation-theme/static/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="274" column="24" selection-start-line="274" selection-start-column="24" selection-end-line="274" selection-end-column="24" />
+        <state relative-caret-position="649">
+          <caret line="283" column="20" selection-start-line="283" selection-start-column="20" selection-end-line="283" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/_default/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="55" column="55" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+        <state relative-caret-position="183">
+          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/foundation-theme/layouts/partials/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="6" column="253" lean-forward="true" selection-start-line="6" selection-start-column="253" selection-end-line="6" selection-end-column="253" />
         </state>
       </provider>
     </entry>

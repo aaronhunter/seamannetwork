@@ -29,7 +29,7 @@ contentOneBody = "We handle hardware from every major brand including, but not l
 
 [params.footer]
 phone = "+1 512-843-3503"
-email = "gideon@seamannetwork.com"
+email = "hello@seamannetwork.com"
 
 [[menu.main]]
 name = 'Home'

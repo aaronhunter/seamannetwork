@@ -39,6 +39,10 @@ Global Styles
   height: auto;
 }
 
+#about-banner {
+  margin-top: 50px;
+}
+
 .off-canvaswrapper {
 	background-color: #222;
 }
@@ -181,7 +185,7 @@ Contact
 
 .contact-wrap {
   background-color: #ce8295;
-  padding: 50px 100px 50px;
+  padding: 50px 0;
   text-align: left;
   width: 100%;
 }
@@ -189,6 +193,11 @@ Contact
 .contact-text {
   text-align: center;
   width: 100%;
+  margin-top: 50px;
+}
+
+.contact-text > h2 {
+  margin-bottom: 45px;
 }
 
 .button.send {
@@ -273,6 +282,14 @@ Media Query
 
   .column {
     margin-bottom: 15px;
+  }
+
+  #contact-form-wrap {
+    padding-top: 145px;
+  }
+
+  .contact-text {
+    text-align: left;
   }
 }
 
