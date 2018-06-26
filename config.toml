@@ -50,3 +50,7 @@ url = "http://facebook.com/seamannetwork"
 [[menu.social]]
 name = "Twitter"
 url = "http://twitter.com/seamannetwork"
+
+[[menu.social]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/seaman-network/"

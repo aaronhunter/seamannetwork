@@ -1,29 +1,31 @@
 {{ "<!-- BEGIN HERO PANEL -->" | safeHTML }}
 
-<div class="wrapper row contact-wrap">
-  <div class="contact-text">
-    <h3>Getting in touch is easy.</h3>
-    <p>Please fill the form below with as much or as little detail as you have. Know exactly what you want? Send us a part number. Not quite sure? We're here to discuss your needs and how to meet them. Thanks for you time, we look forward to hearing from you.</p>
+<div class="contact-wrap main-section">
+  <div class="wrapper row">
+    <div class="contact-text">
+      <h2>Getting in touch is easy.</h2>
+      <p>Please fill the form below with as much or as little detail as you have. Know exactly what you want? Send us a part number. Not quite sure? We're here to discuss your needs and how to meet them. Thanks for you time, we look forward to hearing from you.</p>
+    </div>
+    <form class="contact-form" name="contact" method="POST" netlify-honeypot="bot-field" netlify>
+      <p class="hidden">
+        <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+      </p>
+      <p>
+        <label>Your Name: <input type="text" name="name" placeholder="First Last"/></label>
+      </p>
+      <p>
+        <label>Your Phone: <input type="text" name="phone" placeholder="+1 555-555-5555 ext. 1"/></label>
+      </p>
+      <p>
+        <label>Your Email: <input type="email" name="email" placeholder="mailbox@yourdomain.com"/></label>
+      </p>
+      <p>
+        <label>Contact Detail: <textarea name="detail" placeholder="Looking for a quote.../PART# 3750/Refreshing a couple of pcs"></textarea></label>
+      </p>
+      <div data-netlify-recaptcha></div>
+      <p>
+        <button class="button send greyish" type="submit">Send</button>
+      </p>
+    </form>
   </div>
-  <form class="contact-form" name="contact" method="POST" netlify-honeypot="bot-field" netlify>
-    <p class="hidden">
-      <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-    </p>
-    <p>
-      <label>Your Name: <input type="text" name="name" placeholder="First Last"/></label>
-    </p>
-    <p>
-      <label>Your Phone: <input type="text" name="phone" placeholder="+1 555-555-5555 ext. 1"/></label>
-    </p>
-    <p>
-      <label>Your Email: <input type="email" name="email" placeholder="mailbox@yourdomain.com"/></label>
-    </p>
-    <p>
-      <label>Contact Detail: <textarea name="detail" placeholder="Looking for a quote.../PART# 3750/Refreshing a couple of pcs"></textarea></label>
-    </p>
-    <div data-netlify-recaptcha></div>
-    <p>
-      <button class="button send greyish" type="submit">Send</button>
-    </p>
-  </form>
 </div>
