@@ -17,6 +17,10 @@ min_version = 0.17
 description = "Seaman Network, LLC"
 keywords = "networking, network, hardware, switch, router, seller"
 
+[params.contact]
+banner = "Let's get in touch"
+description = "Connect with your own product expert today by telling us your needs. The more information the better. If you're not sure, no worries. We'll help you figure it out."
+
 [params.hero]
 herotitle = "Come Together."
 herodiscription = "We offer reliable, tested, and budget-friendly computer hardware from every major brand on the market. We are prepared to handle your needs large or small. So, whether your office needs a complete makeover, or a single switch needs a fan, Seaman Network can help. We also offer buy-back programs for your old gear. All of our products come with a one year warranty (2 years for new equipment) so you can rest easy knowing that we have you covered."
@@ -29,7 +33,7 @@ contentOneBody = "We're currently revamping our website to better serve you. Ple
 
 [params.footer]
 phone = "+1 512-843-3503"
-email = "gideon@seamannetwork.com"
+email = "hello@seamannetwork.com"
 
 [[menu.main]]
 name = 'Home'

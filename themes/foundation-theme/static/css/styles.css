@@ -178,8 +178,15 @@ Media Query
 		display: none;
 	}
 
-  h1.hero, h1.temp, .temp-contact {
+  h1.hero,
+  h1.temp,
+  h1.temp-contact,
+  h1.contact-banner {
     margin-top: 150px;
+  }
+
+  .column {
+    margin-bottom: 30px;
   }
 }
 
